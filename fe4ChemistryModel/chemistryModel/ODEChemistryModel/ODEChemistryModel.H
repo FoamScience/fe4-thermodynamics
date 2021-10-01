@@ -64,6 +64,8 @@ class ODEChemistryModel
     public CompType,
     public ODE
 {
+protected:
+
     // Private data
 
         //- Reference to the field of specie mass fractions

@@ -10,4 +10,4 @@ chemistryModel/rhoChemistryModel/rhoChemistryModels.C
 
 chemistrySolver/chemistrySolver/makeChemistrySolvers.C
 
-LIB = $(FOAM_LIBBIN)/libchemistryModel
+LIB = $(FOAM_USER_LIBBIN)/libimprovedChemistryModel
